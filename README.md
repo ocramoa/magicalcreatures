@@ -8,7 +8,7 @@ The way I use this program is by starting client.py. It initializes a connection
 
 This isn't intended to be anything professional. Rather, it is a quick demonstration of how Python and Firestore can work together. Also, I really wanted to make a cute magical creatures app :smile:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=4TFtah5hrbQ)
 
 # Cloud Database
 
